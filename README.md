@@ -5,14 +5,14 @@ This little code shows you how easy you can use a RFID Modul in combination with
 Created 22.8.2015 by Marc-André Tragé
   
 Pinout for Arduino Pro Micro
-! VCC  to RFID RC522 Modul needs 3.3v, more informations about this at line 22.
-  GND  GND
-  IRG  not connected
-  RST  pin 6
-  SDA  pin 10  
-  MISO pin 14
-  SCK  pin 15  
-  MOSI pin 16
++ VCC to RFID RC522 Modul needs 3.3v
++ GND  GND
++ IRG  not connected
++ RST  pin 6
++ SDA  pin 10  
++ MISO pin 14
++ SCK  pin 15
++ MOSI pin 16
 
 What you need for a little RFID fun:
   +  Arduino Pro Micro and Leonardo or equal Boards with a ATmega32U4
