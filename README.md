@@ -5,6 +5,7 @@ This little code shows you how easy you can use a RFID Modul in combination with
 Created 22.8.2015 by Marc-André Tragé
   
 Pinout for Arduino Pro Micro
+![](https://github.com/MTrage/Arduino-RFID-Keyboard/blob/master/circuit-diagram.png)
 + VCC to RFID RC522 Modul needs 3.3v
 + GND  GND
 + IRG  not connected
