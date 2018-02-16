@@ -1,10 +1,10 @@
-Arduino RFID Keyboard 
+# Arduino RFID Keyboard 
 
 This little code shows you how easy you can use a RFID Modul in combination with a Keyboard function (from Arduino Pro Micro (ATmega32U4)). Freely usable for all with the exception of military and other anti-social activities.
 
 Created 22.8.2015 by Marc-André Tragé
   
-Pinout for Arduino Pro Micro
+### Pinout for Arduino Pro Micro
 ![](https://github.com/MTrage/Arduino-RFID-Keyboard/blob/master/circuit-diagram.png)
 + VCC to RFID RC522 Modul needs 3.3v
 + GND  GND
@@ -15,7 +15,7 @@ Pinout for Arduino Pro Micro
 + SCK  pin 15
 + MOSI pin 16
 
-What you need for a little RFID fun:
+### What you need for a little RFID fun:
   +  Arduino Pro Micro and Leonardo or equal Boards with a ATmega32U4
      it can emulate via USB a keyboard or a mouse) order types like this => https://www.google.de/search?q=arduino+pro+micro
   +  RFID RC522 Modul like this => https://www.google.de/search?q=rfid+rc522
