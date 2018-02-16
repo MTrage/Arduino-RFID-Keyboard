@@ -22,5 +22,5 @@ Created 22.8.2015 by Marc-André Tragé
   +  if you have only 5.0v VCC on Board, use a AMS1117-3.3 like this => http://www.advanced-monolithic.com/pdf/ds1117.pdf
   +  LED Button like this => https://www.google.de/search?q=LED+Light+Tactile+Push+Button
     
-If you have any useful changes or improvements please let me know.
-(Not a wish (but a command)) have fun (NOW (and for the rest of your life))!
+**If you have any useful changes or improvements please let me know.
+(Not a wish (but a command)) have fun (NOW (and for the rest of your life))!**
